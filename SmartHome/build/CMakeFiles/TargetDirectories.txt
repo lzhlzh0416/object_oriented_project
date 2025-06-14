@@ -1,0 +1,3 @@
+/Users/Zhuanz/Documents/面向对象大作业/SmartHome/build/CMakeFiles/SmartHome.dir
+/Users/Zhuanz/Documents/面向对象大作业/SmartHome/build/CMakeFiles/edit_cache.dir
+/Users/Zhuanz/Documents/面向对象大作业/SmartHome/build/CMakeFiles/rebuild_cache.dir
